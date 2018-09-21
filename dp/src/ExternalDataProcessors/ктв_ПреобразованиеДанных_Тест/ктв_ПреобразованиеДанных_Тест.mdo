@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc10804b-84d1-4770-ab7e-c8eb02f42352">
+  <producedTypes>
+    <objectType typeId="69cabbb1-bba7-46c4-aecd-c5595f656ea3" valueTypeId="3c503887-9c5f-400b-aca1-8abe3f7da054"/>
+  </producedTypes>
+  <name>ктв_ПреобразованиеДанных_Тест</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест библиотеки преобразование</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="86d76d11-d5cf-4030-b468-9e9d2a1b71ab"/>
+  <defaultForm>ExternalDataProcessor.ктв_ПреобразованиеДанных_Тест.Form.Форма</defaultForm>
+  <forms uuid="ce93d325-77dd-4f2f-ab4f-2c5e8e178434">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

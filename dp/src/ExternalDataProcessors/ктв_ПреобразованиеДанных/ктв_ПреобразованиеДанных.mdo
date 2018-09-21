@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="60510e14-3820-4b83-83b4-e2f7b874fd34">
+  <producedTypes>
+    <objectType typeId="81d70963-5775-42cd-aa02-9d7dd0ba071f" valueTypeId="d457a85d-b898-47ab-8018-98d90c73b0e1"/>
+  </producedTypes>
+  <name>ктв_ПреобразованиеДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Преобразование данных</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="b772daf5-04d1-4f63-b976-fc9f6de805ca"/>
+</mdclass:ExternalDataProcessor>
