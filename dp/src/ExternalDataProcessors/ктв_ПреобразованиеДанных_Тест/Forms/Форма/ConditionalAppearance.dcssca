@@ -5,13 +5,16 @@
 			<item>
 				<field>КаталогВыгрузки</field>
 			</item>
+			<item>
+				<field>РазмерПорции</field>
+			</item>
 		</selection>
 		<filter>
 			<item xsi:type="FilterItemComparison">
 				<left xsi:type="dcscor:Field">ВыгрузитьРезультатыТестаСКД</left>
 				<comparisonType>Equal</comparisonType>
 				<right xsi:type="xs:boolean">false</right>
-				<presentation>
+				<presentation xsi:type="xs:string">
 				</presentation>
 			</item>
 		</filter>
@@ -27,13 +30,16 @@
 			<item>
 				<field>КаталогВыгрузки</field>
 			</item>
+			<item>
+				<field>РазмерПорции</field>
+			</item>
 		</selection>
 		<filter>
 			<item xsi:type="FilterItemComparison">
 				<left xsi:type="dcscor:Field">ВыгрузитьРезультатыТестаСКД</left>
 				<comparisonType>Equal</comparisonType>
 				<right xsi:type="xs:boolean">true</right>
-				<presentation>
+				<presentation xsi:type="xs:string">
 				</presentation>
 			</item>
 		</filter>
