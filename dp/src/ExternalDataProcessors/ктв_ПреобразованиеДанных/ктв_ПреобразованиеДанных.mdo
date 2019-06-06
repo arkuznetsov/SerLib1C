@@ -10,4 +10,12 @@
   </synonym>
   <comment></comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="b772daf5-04d1-4f63-b976-fc9f6de805ca"/>
+  <templates uuid="996130a3-0d4a-4af3-90dc-c99ad41f6525">
+    <name>ОписаниеТипов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Описание типов (json)</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
