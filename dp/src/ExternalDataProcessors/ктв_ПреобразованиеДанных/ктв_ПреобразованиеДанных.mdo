@@ -18,4 +18,12 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
+  <templates uuid="4a0f3d1b-7a6a-42cc-a0cf-fbb888c4c76a">
+    <name>ВерсияБиблиотеки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия библиотеки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
