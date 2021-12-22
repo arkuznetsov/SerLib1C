@@ -1,6 +1,6 @@
 @echo off
 
-set v8version=8.3.15.1830
+set v8version=8.3.17.2256
 set v8path="C:\Program Files\1cv8\%v8version%\bin\1cv8"
 set edtprojectpath=%cd%\dp
 set tmpdir=%cd%\tmp
