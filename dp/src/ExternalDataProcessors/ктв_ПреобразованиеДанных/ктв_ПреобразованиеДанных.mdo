@@ -26,4 +26,12 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
+  <templates uuid="3bc76986-5ed1-4b6a-b593-e45e0c97b156">
+    <name>Перечисления</name>
+    <synonym>
+      <key>ru</key>
+      <value>Перечисления</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
