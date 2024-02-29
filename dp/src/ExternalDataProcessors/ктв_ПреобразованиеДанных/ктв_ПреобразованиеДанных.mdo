@@ -41,4 +41,36 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
+  <templates uuid="72d721db-6794-4c00-ab02-e5d3173e5da6">
+    <name>Цвета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Цвета</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="89e2eeca-1acd-4cb0-a4a6-35e99adbe1c6">
+    <name>Шрифты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шрифты</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="98da1981-85d4-44d8-ae97-cddc5ad6b368">
+    <name>Рамки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Рамки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="d59c8b2a-7d5b-4941-9a99-932f48d0a849">
+    <name>Картинки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Картинки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
