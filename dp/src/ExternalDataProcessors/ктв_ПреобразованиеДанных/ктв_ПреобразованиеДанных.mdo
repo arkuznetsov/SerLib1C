@@ -8,7 +8,6 @@
     <key>ru</key>
     <value>Преобразование данных</value>
   </synonym>
-  <comment></comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="b772daf5-04d1-4f63-b976-fc9f6de805ca"/>
   <templates uuid="996130a3-0d4a-4af3-90dc-c99ad41f6525">
     <name>ОписаниеТипов</name>
@@ -23,6 +22,54 @@
     <synonym>
       <key>ru</key>
       <value>Версия библиотеки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="3bc76986-5ed1-4b6a-b593-e45e0c97b156">
+    <name>Перечисления</name>
+    <synonym>
+      <key>ru</key>
+      <value>Перечисления</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="03d0efdb-3b66-4593-9784-2de6d4dc92a2">
+    <name>ТипыЗначенийСКД</name>
+    <synonym>
+      <key>ru</key>
+      <value>Типы значений СКД</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="72d721db-6794-4c00-ab02-e5d3173e5da6">
+    <name>Цвета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Цвета</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="89e2eeca-1acd-4cb0-a4a6-35e99adbe1c6">
+    <name>Шрифты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шрифты</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="98da1981-85d4-44d8-ae97-cddc5ad6b368">
+    <name>Рамки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Рамки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="d59c8b2a-7d5b-4941-9a99-932f48d0a849">
+    <name>Картинки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Картинки</value>
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>

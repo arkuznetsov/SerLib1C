@@ -2,3 +2,9 @@
 *.zip
 tmp
 dp/.settings/
+.scannerwork/
+.sonar/
+.vscode
+.env
+out/
+build/
