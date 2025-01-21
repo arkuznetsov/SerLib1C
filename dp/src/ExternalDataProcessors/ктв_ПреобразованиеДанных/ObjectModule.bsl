@@ -7,6 +7,16 @@
 // Codebase: https://github.com/ArKuznetsov/SerLib1C/
 // ----------------------------------------------------------
 
+// BSLLS:MagicNumber-off
+// BSLLS:MagicDate-off
+// BSLLS:DuplicateStringLiteral-off
+// BSLLS:LatinAndCyrillicSymbolInWord-off
+
+// sonar:MagicNumber-off
+// sonar:MagicDate-off
+// sonar:DuplicateStringLiteral-off
+// sonar:LatinAndCyrillicSymbolInWord-off
+
 #Область ОписаниеПеременных
 
 Перем ПравилаВыгрузкиТипов;  // - Соответствие   - правила выгрузки типов (см. ПолучитьПравилаВыгрузкиТипов())
