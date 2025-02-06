@@ -673,6 +673,10 @@
         <segments>КаталогВыгрузки</segments>
       </dataPath>
       <titleLocation>None</titleLocation>
+      <handlers>
+        <event>OnChange</event>
+        <name>КаталогВыгрузкиПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>КаталогВыгрузкиРасширеннаяПодсказка</name>
         <id>13</id>
