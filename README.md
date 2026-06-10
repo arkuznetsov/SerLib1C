@@ -4,13 +4,12 @@
 [![GitHub license](https://img.shields.io/github/license/ArKuznetsov/SerLib1C.svg?style=flat-square)](https://github.com/ArKuznetsov/SerLib1C/blob/develop/LICENSE)
 [![GitHub Releases](https://img.shields.io/github/downloads/ArKuznetsov/SerLib1C/latest/total?style=flat-square)](https://github.comArKuznetsov/SerLib1C/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArKuznetsov/SerLib1C/total?style=flat-square)](https://github.com/ArKuznetsov/SerLib1C/releases)
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/124633255.svg)](https://openyellow.org/grid?filter=top&repo=124633255)
 
 [![Build Status](https://img.shields.io/github/workflow/status/ArKuznetsov/SerLib1C/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0)](https://github.com/arkuznetsov/SerLib1C/actions/)
 [![Quality Gate](https://sonar.openbsl.ru/api/project_badges/measure?project=SerLib1C&metric=alert_status)](https://sonar.openbsl.ru/dashboard/index/SerLib1C)
 [![Coverage](https://sonar.openbsl.ru/api/project_badges/measure?project=SerLib1C&metric=coverage)](https://sonar.openbsl.ru/dashboard/index/SerLib1C)
 [![Tech debt](https://sonar.openbsl.ru/api/project_badges/measure?project=SerLib1C&metric=sqale_index)](https://sonar.openbsl.ru/dashboard/index/SerLib1C)
-
-[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/124633255.svg)](https://openyellow.org/grid?filter=top&repo=124633255)
 
 ## Библиотека сериализации 1С (обработка)
 

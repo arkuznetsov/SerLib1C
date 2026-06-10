@@ -1,0 +1,27 @@
+@ECHO OFF
+
+SETLOCAL
+
+chcp 65001 > nul
+
+set AUTHOR=%1
+set AUTHOR=%AUTHOR:"=%
+set EMAIL=%2
+set EMAIL=%EMAIL:"=%
+
+rem Дата в формате YYYY-MM-DD hh:mm:ss
+set GIT_COMMITTER_DATE=%3
+set GIT_COMMITTER_DATE=%GIT_COMMITTER_DATE:"=%.000000000 +0300
+
+set GIT_COMMITTER_NAME=%AUTHOR%
+set GIT_COMMITTER_EMAIL=%EMAIL%
+set MESSAGE=%4
+set MESSAGE=%MESSAGE:""=''%
+set MESSAGE=%MESSAGE:"=%
+set MESSAGE=%MESSAGE:''=\"%
+
+set REPO_ROOT_PATH=%cd%
+
+cd %REPO_ROOT_PATH%
+
+git commit --date="%GIT_COMMITTER_DATE%" --author="%AUTHOR% <%EMAIL%>" -m "%MESSAGE%"
